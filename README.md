@@ -15,6 +15,8 @@
 
 嗯嗯，欢迎随时骚扰。
 
+更多信息请访问[Wiki](https://github.com/trai25/Python-learning-note/wiki).
+
 - - -
 
 补充一下，我和Crossin木有任何关系，不是广告，不是广告，除非脑袋让门夹了，否则在Github这种地方做零基础编程广告是很奇怪的事情 = =|||
